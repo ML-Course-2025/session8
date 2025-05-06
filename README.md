@@ -1,4 +1,4 @@
-# Session 8: Recap & Project Presenatations
+# Session 8: Recap & Project Presentations
 
 -----
 
