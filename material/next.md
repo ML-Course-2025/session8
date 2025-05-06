@@ -12,3 +12,14 @@
 
 ### freeCodeCamp.org – YouTube Channel
 - https://www.youtube.com/@freecodecamp/videos
+
+---
+
+### YouTube Tutorials  
+- [Let’s Reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)  
+- [Let’s Build GPT: From Scratch, in Code, Spelled Out](https://www.youtube.com/watch?v=kCc8FmEb1nY)  
+
+---
+
+### Deployment Guide  
+- [Deploying Gradio App on Hugging Face (Written Guide)](https://www.gradio.app/guides/using-hugging-face-integrations#hosting-your-gradio-demos-on-spaces)
